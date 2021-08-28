@@ -1,0 +1,6 @@
+public class {
+    public static void main(String[] args) {
+    N String = numero com nove algarismos; 
+      System.out.println("Número:" + N); 
+    }
+}
